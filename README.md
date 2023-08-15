@@ -16,7 +16,7 @@ reactjs
 https://iwant2study.org/ospsg/index.php/related-sites/959-ejss-sim-web-editor-by-raphael-yee
 
 ## Changes 
-the .ejss file is written with the edits made now, pass it to weelookang@gmail.com if you want it hosted on https://iwant2study.org/ospsg/
+the .ejss file is written with the edits made now, pass the whole model_*.zip to weelookang@gmail.com if you want it hosted on https://iwant2study.org/ospsg/
 
 ## Further Reading
 What the file look for ?
