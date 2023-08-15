@@ -1,4 +1,4 @@
-# EJSS Browser Editor
+# Easy JavaScript Simulation https://gitlab.com/ejsS EJSS Browser Editor
 
 
 ## Prerequisite libraries
