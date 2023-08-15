@@ -7,9 +7,9 @@ reactjs
 ```
 
 ## Demo App
-https://ejsseditor.onrender.com/
-https://ejsseditorntsci.onrender.com/
-https://ejss-browser-editor.herokuapp.com/ died
+1. https://ejsseditor.onrender.com/
+2. https://ejsseditorntsci.onrender.com/
+3. https://ejss-browser-editor.herokuapp.com/ died
 
 ## Documentation use by teachers
 https://iwant2study.org/ospsg/index.php/related-sites/959-ejss-sim-web-editor-by-raphael-yee
